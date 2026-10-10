@@ -1,0 +1,7 @@
+- Verify project requirements before changes.
+- Keep the codebase simple, beginner-friendly, and aligned with the Spring Boot + MySQL stack.
+- Maintain package layout under com.example.carpool with controller, service, repository, entity, dto, security, and exception.
+- Prefer clean REST APIs and role-based access checks over unnecessary complexity.
+- Validate Java and frontend changes before completion.
+- Keep the README and setup notes current when adding new features.
+- For this project, use Maven and MySQL as the runtime baseline.
